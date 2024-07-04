@@ -1,0 +1,14 @@
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/bin/Debug/net8.0/TicTacToe
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/home/johnlambert/Desktop/console-games-csharp/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
